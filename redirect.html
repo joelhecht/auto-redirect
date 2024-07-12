@@ -1,0 +1,12 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Auto redirect - For hyperlink to local network in Webex messages</title>
+  </head>
+  <body>
+      <script>
+const query_string = window.location.search;
+window.location.replace(query_string.substr(1));
+      </script>
+  </body>
+</html>
