@@ -6,6 +6,9 @@ In my professional work, we have recently started using Webex, and there's one r
 the links in messages are only clickable if they point to a site visible on the internet.
 Naturally, most of the links we use are to our internal systems.
 
+## BREAKING NEWS December 12, 2024 :
+It seems that the problem is fixed in latest version of Webex, so this little piece of code is longer useful in this case.
+
 ## The solution
 
 To work around this problem, the chosen solution is to use a web page that is visible on the internet,
